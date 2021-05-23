@@ -1,0 +1,17 @@
+
+Chay cmd 
+cd project_laravel_kt 
+composer install 
+php artisan key:generate
+php artisan serve
+
+Chỉnh sữa DB
+chỉnh sửa lại file .env
+folder chứa DB : database/db
+
+Login trang web
+login admin  http://localhost:8000/
+page user : http://localhost:8000/page-user
+
+account: admin@gmail.com
+mk : 12345678
